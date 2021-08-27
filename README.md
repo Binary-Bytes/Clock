@@ -3,8 +3,8 @@
 <div>
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/Binary-Bytes/Javascript-Clock.svg)](https://github.com/Binary-Bytes/Javascript-Clock/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Binary-Bytes/Javascript-Clock.svg)](https://github.com/Binary-Bytes/Javascript-Clock/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/Binary-Bytes/Clock.svg)](https://github.com/Binary-Bytes/Clock/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Binary-Bytes/Clock.svg)](https://github.com/Binary-Bytes/Clock/pulls)
 
 </div>
 
